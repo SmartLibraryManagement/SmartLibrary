@@ -1,0 +1,13 @@
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\bin\Debug\bookmanagement.exe.config
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\bin\Debug\bookmanagement.exe
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\bin\Debug\bookmanagement.pdb
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.csproj.AssemblyReference.cache
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.Properties.Resources.resources
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.csproj.GenerateResource.cache
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.csproj.CoreCompileInputs.cache
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.exe
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.pdb
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.MainForm.resources
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.ManageForm.resources
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.IDfindForm.resources
+C:\Users\최규전\source\repos\bookmanagement\bookmanagement\obj\Debug\bookmanagement.JoinForm.resources
